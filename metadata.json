@@ -1,0 +1,8 @@
+{
+  "name": "Remix IE Daily Activity Tracking",
+  "description": "Industrial engineering daily checklist, line balancing, bottleneck analysis, manpower tracking, and KPI reporting for manufacturing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
